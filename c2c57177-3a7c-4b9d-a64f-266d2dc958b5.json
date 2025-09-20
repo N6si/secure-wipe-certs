@@ -1,0 +1,12 @@
+{
+  "certificate_id": "c2c57177-3a7c-4b9d-a64f-266d2dc958b5",
+  "issued_at": "2025-09-20T13:28:34.889745+00:00",
+  "wiper_version": "mvp-windows-0.1",
+  "file_path": "C:\\Users\\raj\\secure-wipe-mvp\\testfile.bin",
+  "file_size_bytes": 52428800,
+  "method": "overwrite-zero-passes-1",
+  "result": "SUCCESS",
+  "extra_log": "starting wipe: testfile.bin;before_sha256:dc3b22f35041c9ef784e59bfed34d8321a58c7297b5ff206002acb378040847d;after_sha256:8565a714dca840f8652c5bae9249ab05f5fb5a4f9f13fbe23304b10f68252da2",
+  "signature": "MEQCIG239YIHr2DXW6Se6XtdGssKTqYwCpfjtQtUBiO2dXi6AiBmIHm1VI+qq9WXoFkLbKELAuVr+OUsErkX7pc9iUuX1g==",
+  "signature_algorithm": "ECDSA-P256-SHA256"
+}
